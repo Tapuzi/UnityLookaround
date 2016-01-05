@@ -1,7 +1,6 @@
 # Unity stuff I don't like
 /Library
 /Assets/UnityVS
-/ProjectSettings
 
 # User-specific files
 *.suo
